@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/giacomo pedemonte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giacomo pedemonte" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/giacomo-pedemonte-3983a6236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giacomo pedemonte" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18625801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18625801" height="30" width="40" /></a>
-<a href="https://fb.com/giacomo pedemonte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giacomo pedemonte" height="30" width="40" /></a>
+<a href="https://fb.com/giacomo.pedemonte.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giacomo pedemonte" height="30" width="40" /></a>
 <a href="https://instagram.com/giacomo_pedemonte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giacomo_pedemonte" height="30" width="40" /></a>
 </p>
 
