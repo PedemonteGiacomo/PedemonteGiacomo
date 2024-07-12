@@ -8,7 +8,7 @@
 I'm a highly motivated and creative problem solver with a deep passion for software engineering. Currently pursuing my Master's Degree in Software Engineering, my journey in IT has allowed me to delve into diverse projects, from Distributed Systems and IoT innovations to Cloud Computing and Machine Learning.
 
 - 🔭 I’m a **Software Engineering**.
-- 👨‍💻 Explore my [website]([https://github.com/PedemonteGiacomo?tab=repositories](https://portfolio-d52a5.web.app/)).
+- 👨‍💻 Explore my [website](https://portfolio-d52a5.web.app/).
 - 📫 Reach out to me at **giacomopedemonte@libero.it** or [+39 3467939050](tel:+393467939050).
 
 ### Professional Experience
