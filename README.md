@@ -5,7 +5,7 @@
 
 ### About Me
 
-I'm a highly motivated and creative problem solver with a deep passion for software engineering. Currently pursuing my Master's Degree in Software Engineering, my journey in IT has allowed me to delve into diverse projects, from Distributed Systems and IoT innovations to Cloud Computing and Machine Learning.
+I'm a highly motivated and creative problem solver with a deep passion for software engineering. Completed Master's Degree in Software Engineering with 110/110 cum laude, my journey in IT has allowed me to delve into diverse projects, from Distributed Systems and IoT innovations to Cloud Computing and Machine Learning.
 
 - 🔭 I’m a **Software Engineering**.
 - 👨‍💻 Explore my [website](https://portfolio-d52a5.web.app/).
