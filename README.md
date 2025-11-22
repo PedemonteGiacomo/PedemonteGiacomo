@@ -7,7 +7,7 @@
 
 I'm a highly motivated and creative problem solver with a deep passion for software engineering. Completed Master's Degree in Software Engineering with 110/110 cum laude, my journey in IT has allowed me to delve into diverse projects, from Distributed Systems and IoT innovations to Cloud Computing and Machine Learning.
 
-- 🔭 I’m a **Software Engineering**.
+- 🔭 I’m a **Software Engineer**.
 - 👨‍💻 Explore my [website](https://portfolio-d52a5.web.app/).
 - 📫 Reach out to me at **giacomopedemonte@libero.it** or [+39 3467939050](tel:+393467939050).
 
@@ -20,14 +20,14 @@ I'm a highly motivated and creative problem solver with a deep passion for softw
 ### Education
 
 **Master's Degree in Software Engineering**
-- **Currently Enrolled**
+- Graduated with laude (110/110 with laude)
 - Università degli Studi di Genova, Genova, Italy
-- Expected Graduation: [Month, Year]
+- Gradiated: [December, 2024]
 
 **Bachelor's Degree in Computer Science**
 - Graduated with Honors (110/110)
 - Università degli Studi di Genova, Genova, Italy
-- Graduated: [Month, Year]
+- Graduated: [September, 2022]
 
 ### Notable Projects
 
